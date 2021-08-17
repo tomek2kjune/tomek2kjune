@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tomek2kjune
+- 👀 I’m interested in DevOps, Hardware
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me tomasz.guziak00@gmail.com, Discord: tommy00#9822
